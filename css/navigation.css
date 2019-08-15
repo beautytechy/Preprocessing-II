@@ -1,0 +1,9 @@
+.container.home nav {
+  background: red;
+  width: 100%;
+  display: flex;
+  flex-wrap: nowrap;
+}
+.container.home nav .links {
+  text-decoration: none;
+}
