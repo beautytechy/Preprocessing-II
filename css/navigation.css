@@ -1,0 +1,22 @@
+nav {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 2px dashed lightgrey !important;
+  align-items: center;
+  margin: 20px;
+}
+nav h2 {
+  margin-left: 40px;
+}
+nav .links {
+  width: 40%;
+  justify-items: space-between;
+}
+nav a {
+  text-decoration: none;
+  color: black;
+  font-size: 15px;
+  padding: 10px;
+  margin-right: 0;
+}
