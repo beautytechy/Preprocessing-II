@@ -172,13 +172,14 @@ img {
   margin: 0 auto;
 }
 .nav-content {
-  width: 100%;
   border-bottom: 2px dashed #C0C0C0;
 }
 .nav-content nav {
+  width: 800px;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   align-items: center;
+  margin: auto;
 }
 @media (max-width:500px) {
   .nav-content nav {
@@ -188,7 +189,6 @@ img {
 }
 .nav-content nav .links {
   justify-items: space-between;
-  justify-content: flex-end;
 }
 .nav-content nav a {
   text-decoration: none;
