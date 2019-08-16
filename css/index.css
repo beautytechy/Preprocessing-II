@@ -171,6 +171,7 @@ img {
   width: 100%;
   margin: 0 auto;
 }
+
 nav {
   width: 100%;
   display: flex;
@@ -193,6 +194,7 @@ nav a {
   padding: 10px;
   margin-right: 0;
 }
+
 .footer {
   width: 100%;
   border-top: 2px dashed silver;
@@ -204,6 +206,7 @@ nav a {
   font-size: 1.6rem;
   padding: 20px;
 }
+
 .home header .header-content {
   margin-top: 10px;
   border-bottom: 2px dashed #C0C0C0 !important;
@@ -218,6 +221,7 @@ nav a {
   color: white;
   font-size: 1.5rem;
 }
+
 .home .content-section {
   margin: 30px 0;
   display: flex;
