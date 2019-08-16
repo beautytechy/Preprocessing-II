@@ -173,6 +173,7 @@ img {
 }
 .nav-content {
   border-bottom: 2px dashed #C0C0C0;
+  margin-top: 10px;
 }
 .nav-content nav {
   width: 800px;
@@ -180,11 +181,12 @@ img {
   justify-content: space-between;
   align-items: center;
   margin: auto;
+  margin-bottom: 20px;
 }
 @media (max-width:500px) {
   .nav-content nav {
     flex-direction: column;
-    margin: 20px;
+    margin: 10px;
   }
 }
 .nav-content nav .links {
@@ -193,8 +195,8 @@ img {
 .nav-content nav a {
   text-decoration: none;
   color: #212529;
-  font-size: 15px;
-  padding: 15px;
+  font-size: 1.5rem;
+  padding: 20px;
   margin-right: 0;
 }
 .footer {
@@ -212,7 +214,7 @@ img {
   width: 90%;
 }
 .home header .header-content {
-  margin-top: 10px;
+  margin-top: 20px;
   border-bottom: 2px dashed #C0C0C0;
 }
 .home .content-section {
